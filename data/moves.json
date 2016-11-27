@@ -1,5 +1,6 @@
 [{"id":32,"name":"Stone Edge","type":"Rock","damage":80,"duration":3100,"energy":100,"dps":25.8},
 {"id":28,"name":"Cross Chop","type":"Fighting","damage":60,"duration":2000,"energy":100,"dps":30.0},
+{"id":242,"name":"Transformation","type":"Normal","damage":0,"duration":1230,"energy":7,"dps":0.0},
 {"id":83,"name":"Dragon Claw","type":"Dragon","damage":35,"duration":1500,"energy":50,"dps":23.33},
 {"id":40,"name":"Blizzard","type":"Ice","damage":100,"duration":3900,"energy":100,"dps":25.64},
 {"id":131,"name":"Body Slam","type":"Normal","damage":40,"duration":1560,"energy":50,"dps":25.64},
